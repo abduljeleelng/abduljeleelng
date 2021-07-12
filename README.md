@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 👋 I’m Abduljeleel Yusuff.
+- 👀 I’m interested in working with you and my is Javascript, React-native, ReactJs, GraphQL, Nodejs,Express, PHP core MVC, WordPress.
+- 💞️ I’m open to learning new programming languages/ tools.
+- 💬 Ask me about : Javascript,   
+- 📫 How to reach me, please send me a mail at abduljeleelng@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: loving {}
+
 
 <!--
 **abduljeleelng/abduljeleelng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
