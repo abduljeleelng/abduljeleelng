@@ -1,26 +1,27 @@
-### Hi there 👋
+# Hello, I'm Abduljeleel
+**Pronoun : he/him**
 
-- 👋 I’m Abduljeleel Yusuff.
-- 😄 Pronouns: He/Him
-- 👀 I’m interested in working with you and my stacks are Javascript, React-native, ReactJs, GraphQL, Nodejs,Express, PHP core MVC, WordPress.
-- 💞️ I’m open to learning new programming languages/ tools.
-- 💬 Ask me about : Javascript,   
-- 📫 How to reach me, please send me a mail at abduljeleelng@gmail.com 
+### About me
+> I am an enthusiastic Software Engineer, spending a lot of my building amazing stuff in tech.
+- 💞️ I’m open to learning new things.
+- 💬 Ask me about anything.
+- 📫 How to reach me:  <abduljeleelng@gmail.com> 
 - ⚡ Fun fact: loving {}
 
+<details>
+<summary>--- More  -- </summary>
+<br />
+
+![Abduljeleel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduljeleelng)
+
+![Abduljeleel's trophies](https://github-profile-trophy.vercel.app/?username=abduljeleelng&column=5&margin-w=7&margin-h=7)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduljeleelng&layout=compact)
+
+</details>
 
 <!--
 **abduljeleelng/abduljeleelng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### JavaScript Developer 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
