@@ -1,10 +1,10 @@
 # Hello, I'm Abduljeleel
-**Pronoun : he/him**
+**Pronoun: he/him**
 
 ### About me
-> I am an enthusiastic Software Engineer, spending a lot of my building amazing stuff in tech.
+> I am an enthusiastic Software Engineer, building amazing stuff in tech.
 - 💞️ I’m open to learning new things.
-- 💬 Ask me about anything.
+- 💬 Ask me about faith.
 - 📫 How to reach me:  <abduljeleelng@gmail.com> 
 - ⚡ Fun fact: loving {}
 
